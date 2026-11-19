@@ -55,7 +55,6 @@ for character in characters:
     print(character)
 ```
 
-This program prints the names of three well-known characters.
 
 ## Explore More About Star Wars
 
